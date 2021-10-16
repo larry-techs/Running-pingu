@@ -84,6 +84,7 @@ public class GameManager : MonoBehaviour {
 	public void onPlayButton()
     {
 		UnityEngine.SceneManagement.SceneManager.LoadScene("Game");
+
     }
 
 	public void OnDeath()
